@@ -14,8 +14,8 @@ export default buildConfig({
     bundler: webpackBundler(),
     meta: {
       titleSuffix: "- JoshuasMarket",
-      favicon: "favicon.ico",
-      ogImage: "thumbnail.jpg",
+      favicon: "images/favicon.ico",
+      ogImage: "images/thumbnail.jpg",
     },
   },
   rateLimit: {
